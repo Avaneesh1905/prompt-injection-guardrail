@@ -59,7 +59,3 @@ The demo has three tabs: **Chat** (talk to the protected LLM), **Disguise tester
 ## Built with
 
 Python, PyTorch, HuggingFace Transformers, Datasets and PEFT, scikit-learn, spaCy, Gradio, Google Colab.
-
-## Course
-
-Natural Language Processing (21CSE356T) mini project, SRM Institute of Science and Technology.
